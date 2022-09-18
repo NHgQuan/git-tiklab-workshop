@@ -1,2 +1,2 @@
 name	quan
-hobby	github
+hobby	github, exercise
