@@ -1,2 +1,2 @@
-name	Quan
-hobby	Github
+name	quan
+hobby	github
